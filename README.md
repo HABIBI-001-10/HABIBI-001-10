@@ -1,4 +1,4 @@
-#  Hi, I'm Habeeb C V A  
+#  Hi, I'm Habeeb   
 ###  Data Science & AI Enthusiast | Python Developer
 
 I'm passionate about building AI-driven solutions, real-time voice applications, and machine learning models.  
